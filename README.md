@@ -1,20 +1,15 @@
+# 💫 About Me:
+Adding Value, to Technology
 
-<!-- For profile views I used an opensource project https://github.com/antonkomarev/github-profile-views-counter -->
-<img src = "https://komarev.com/ghpvc/?username=saqib40&color=orange&style=flat-square" alt ="Profile Views">
 
-## About Me :
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sankalpakashyap/) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sam-kash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sam-kash&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-kash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Projects and all, Coding 
+---
+[![](https://visitcount.itsvg.in/api?id=Sam-kash&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saqib40&theme=gruvbox&layout=compact&langs_count=14" alt="Saqib's Top Languages" style="width: 400px;" />
-
-## Me On Internet:
-
-<!-- For badges I used https://shields.io/ -->
-<div id="badges">
-  <a href="https://www.linkedin.com/in/sankalpakashyap/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
