@@ -1,5 +1,5 @@
 # 💫 About Me:
-Adding Value, to Technology
+Adding Value through code
 
 
 ## 🌐 Socials:
